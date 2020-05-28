@@ -1,4 +1,4 @@
-## Welcome to page light knight the game 
+## Welcome to page the game light knight  
 
 You can use the [editor on GitHub](https://github.com/gilmarkandrade/Light-Knight/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
